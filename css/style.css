@@ -1,0 +1,13 @@
+
+.menu{
+	position: fixed;
+	background-color: black;
+	height:150px;
+	width: 100%;
+	
+}
+a{
+	display:inline-block;
+	color: white;
+	margin: 20px 50px;
+}
